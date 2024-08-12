@@ -21,6 +21,6 @@ Pretende-se configurar uma API que permitirá:
 - Implementação de funcionalidades para filtrar, curtir e comentar receitas no feed.
 - Otimização da interface para melhorar a experiência do usuário.
 
-## Envio de Evidências
+## Envio de Evidência
 
-Envie as evidências de desenvolvimento como tarefa. Apontar no campo de texto da atividade o que será colocado sob configuração (por exemplo, a criação da API, a integração com o banco de dados, ou a continuação da construção da tela de feed).
+[Caso de teste ](https://drive.google.com/file/d/1PKNTKDYmjPIZ_b_dNFh2mVKRAlvOWlse/view?usp=sharing)

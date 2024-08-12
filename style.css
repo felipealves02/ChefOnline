@@ -2,12 +2,31 @@ html, body {
     height: 100%;
 }
 
-
 .form-container {
     max-width: 350px;
     padding: 1rem;
 }
 
-.form-container button:nth-of-type(2) {
+.form-container button {
     margin-top: 1rem;
+}
+
+.form-container button:first-of-type {
+    margin-top: 0;
+}
+
+.theme-toggle-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+/* Estilo adicional para a página de cadastro */
+.register-form {
+    max-width: 350px;
+    padding: 1rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
 }
